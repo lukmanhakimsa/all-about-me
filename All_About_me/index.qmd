@@ -1,7 +1,7 @@
-# UTS-1 All About Me
+# All About Me
 
 ---
-title: "All About Me"
+title: "UTS-1 All About Me"
 ---
 
 ## Awal Perjalanan
