@@ -1,22 +1,25 @@
-# Selamat Berjumpa {.unnumbered}
+# Selamat Datang {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+**Portfolio Asesmen II-2100 KIPP**  
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Selamat datang di website ini, yang dibuat sebagai bagian dari tugas mata kuliah **II2100 – Komunikasi Interpersonal dan Publik** pada Program Studi Sistem dan Teknologi Informasi, Sekolah Teknik Elektro dan Informatika – Institut Teknologi Bandung (ITB).  
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Website ini bertujuan untuk mendokumentasikan proses pembelajaran, refleksi pribadi, serta karya-karya yang dihasilkan selama perkuliahan. Setiap bagian dirancang untuk menunjukkan bagaimana konsep-konsep komunikasi, seperti kesadaran diri, empati, mendengarkan aktif, hingga komunikasi publik, dapat diterapkan dalam kehidupan akademik maupun profesional.  
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+Melalui pembuatan website ini, saya ingin memperlihatkan bahwa komunikasi bukan hanya soal berbicara di depan orang banyak atau menyampaikan informasi, tetapi juga tentang membangun makna bersama, memahami perspektif orang lain, dan mengekspresikan diri secara jujur dan efektif. Setiap konten yang disajikan di sini mencerminkan upaya untuk mengaitkan teori yang dipelajari dengan pengalaman pribadi, serta bagaimana pengalaman tersebut membentuk cara saya berkomunikasi dalam berbagai situasi.  
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
+Selain itu, website ini juga berfungsi sebagai media refleksi, di mana setiap karya, tulisan, maupun dokumentasi yang disertakan diharapkan dapat memberikan pemahaman yang lebih mendalam mengenai hubungan antara teori komunikasi dan praktik nyata. Pengunjung diajak untuk menjelajahi setiap bagian, memahami konteks di balik karya, dan melihat bagaimana penerapan komunikasi dapat meningkatkan kualitas interaksi, kolaborasi, dan pemahaman antarindividu.  
 
+Dengan navigasi yang jelas dan terstruktur, pengunjung dapat dengan mudah menjelajahi berbagai bagian website, menemukan konten yang relevan, dan mendapatkan pengalaman belajar yang interaktif. Tujuan akhirnya adalah agar website ini tidak hanya memenuhi persyaratan akademik, tetapi juga menjadi contoh bagaimana komunikasi yang efektif dapat diwujudkan melalui penyampaian informasi yang tepat, terstruktur, dan bermakna.  
 
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
+## Navigasi
 
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
+- [UTS-1 All About Me](./UTS-1-All-About-Me.md)  
+- [UTS-2 My Songs for You](./UTS-2-My-Songs-for-You.md)  
+- [UTS-3 My Stories for You](./UTS-3-My-Stories-for-You.md)  
+- [UTS-4 My SHAPE](./UTS-4-My-SHAPE.md)  
+- [UTS-5 My Personal Reviews](./UTS-5-My-Personal-Reviews.md)  
 
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
+## Highlight
 
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
-
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+Jelajahi berbagai karya dan refleksi yang telah disusun di bagian UTS. Klik salah satu tautan di atas untuk melihat konten yang diinginkan, memahami proses pembelajaran yang dilakukan, dan mendapatkan wawasan mengenai bagaimana penerapan konsep komunikasi dapat membantu membangun hubungan yang lebih efektif dan bermakna.  
