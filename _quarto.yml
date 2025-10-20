@@ -5,8 +5,8 @@ project:
 book:
   title: "Lukman Hakim Syah Ardhana"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  author: "18224097 Lukman Hakim Syah Ardhana"
+  date: "10/20/2025"
   chapters:
     - index.qmd
     - All_About_me/index.qmd
