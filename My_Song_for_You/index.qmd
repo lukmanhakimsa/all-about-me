@@ -1,1 +1,89 @@
 # UTS-2 My Songs for You
+
+---
+title: "Halfway Home — Lukman Hakim Syah Ardhana"
+format: 
+  html:
+    theme: minty
+    toc: false
+    css: styles.css
+---
+
+# Halfway Home 🎵
+oleh **Lukman Hakim Syah Ardhana**
+
+---
+
+## Tentang Karya
+
+*“Halfway Home”* saya buat sebagai refleksi perjalanan pulang — bukan hanya pulang secara fisik, tapi juga secara emosional.  
+Lagu ini menggambarkan fase di mana seseorang belum sepenuhnya sembuh, namun sudah cukup kuat untuk melangkah kembali ke arah yang lebih tenang.
+
+Karya ini selaras dengan pembelajaran di mata kuliah **Komunikasi Interpersonal & Publik**, di mana saya belajar bahwa proses memahami diri sendiri dan orang lain adalah bagian dari “pulang” itu sendiri — dari konflik, dialog, hingga menerima diri.
+
+---
+
+## Proses Kreatif
+
+Lagu ini saya tulis sepenuhnya berdasarkan refleksi pribadi.  
+Produksi musiknya dibuat menggunakan **Suno.ai**, sementara proses **video editing dan visualisasi dilakukan di CapCut dan Canva** untuk menjaga tone yang lembut dan personal.
+
+Fokus saya bukan pada kompleksitas teknologinya, melainkan pada pesan yang ingin disampaikan: bahwa meski belum sepenuhnya “sampai rumah”, perjalanan pulang itu sendiri tetap berarti.
+
+---
+
+## Video Karya
+
+<div style="text-align:center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qKywgE79b1Q" 
+  title="Halfway Home — Lukman Hakim Syah Ardhana" 
+  frameborder="0" allowfullscreen></iframe>
+</div>
+
+[🎬 Tonton di YouTube](https://youtu.be/qKywgE79b1Q)
+
+---
+
+## Lirik Lagu
+
+### **Halfway Home — Lukman Hakim Syah Ardhana**
+
+**Verse 1**  
+I walked through empty streets again  
+The lights were dim, but not the pain  
+I thought I’d heal, I thought I’d grow  
+But healing’s slow — I should’ve known  
+
+**Pre-Chorus**  
+The echoes call me where I’ve been  
+But I’m not lost, just in between  
+
+**Chorus**  
+Halfway home, I’m on my way  
+Not the end, but that’s okay  
+The night still hums, the stars still show  
+I’m not there yet — but I’ll go  
+
+**Verse 2**  
+I left the ghosts where memories sleep  
+The promises I couldn’t keep  
+I learned that peace is never fast  
+You find it slow, you make it last  
+
+**Pre-Chorus**  
+I still fall down, I still rewind  
+But losing’s part of being kind  
+
+**Chorus**  
+Halfway home, I’m on my way  
+I’ll keep walking come what may  
+The road is rough, but I still know  
+I’m halfway there — halfway home  
+
+**Outro**  
+Maybe home’s not where I’ve been  
+But where I choose to start again  
+
+---
+
+© 2025 Lukman Hakim Syah Ardhana · Video by CapCut & Canva · [Tonton di YouTube](https://youtu.be/qKywgE79b1Q)
