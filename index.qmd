@@ -2,7 +2,7 @@
 
 **Portfolio Asesmen II-2100 KIPP**  
 
-![Foto Lukman Hakim Syah Ardhana](images/IMG_9791.JPG){width=600px align="center"}
+![Foto Lukman Hakim Syah Ardhana](images/IMG_9791.JPG){width=300px align="center"}
 
 Selamat datang di website ini, yang dibuat sebagai bagian dari tugas mata kuliah **II2100 – Komunikasi Interpersonal dan Publik** pada Program Studi Sistem dan Teknologi Informasi, Sekolah Teknik Elektro dan Informatika – Institut Teknologi Bandung (ITB).  
 
