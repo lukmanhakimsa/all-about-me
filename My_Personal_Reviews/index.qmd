@@ -1,14 +1,14 @@
 ---
 title: "UTS-5 My Personal Reviews"
 author: "Penilai: ChatGPT (berdasarkan rubrik II2100)"
-date: "2025-10-21"
+date: "2025-10-20"
 format:
   html:
     theme: cosmo
     toc: true
 ---
 
-# Identifikasi
+## Identifikasi
 
 | Nama | NIM |
 |------|-----|
@@ -16,7 +16,7 @@ format:
 
 ---
 
-# Tinjauan Umum
+## Tinjauan Umum
 
 Karya web **All About Me** karya Lukman menampilkan kepribadian reflektif, orisinal, dan ekspresif. 
 Setiap bagian UTS (1–5) menunjukkan perkembangan naratif dan kedewasaan komunikasi personal. 
@@ -24,9 +24,9 @@ Secara umum, seluruh konten konsisten dengan tema kuliah *Komunikasi Interperson
 
 ---
 
-# Tinjauan Spesifik
+## Tinjauan Spesifik
 
-## UTS-1: All About Me
+### UTS-1: All About Me
 
 Narasi reflektif tentang perjalanan pribadi yang penuh keingintahuan dan kejujuran diri.
 
@@ -42,7 +42,7 @@ Tulisan ini jujur dan mengalir alami. Bisa ditingkatkan dengan menambahkan sedik
 
 ---
 
-## UTS-2: Songs for You (“Halfway Home 🎵”)
+### UTS-2: Songs for You (“Halfway Home 🎵”)
 
 Puisi reflektif yang puitis dan berkesan, dengan makna pulang secara emosional dan spiritual.
 
@@ -58,7 +58,7 @@ Pilihan diksi sangat kuat. Untuk pengembangan, bisa tambahkan konteks visual ata
 
 ---
 
-## UTS-3: My Stories for You (“Jejak Waktu dan Pilihan”)
+### UTS-3: My Stories for You (“Jejak Waktu dan Pilihan”)
 
 Cerita pendek dengan narasi introspektif dan nilai moral yang jelas.
 
@@ -74,7 +74,7 @@ Ceritanya efektif menyentuh sisi reflektif pembaca. Akan lebih kuat bila menamba
 
 ---
 
-## UTS-4: My SHAPE
+### UTS-4: My SHAPE
 
 Analisis diri menggunakan model SHAPE yang disajikan dalam bentuk tabel informatif dan jujur.
 
@@ -90,7 +90,7 @@ Sudah sangat terstruktur. Bisa lebih kuat jika disertai contoh konkret pengalama
 
 ---
 
-## UTS-5: My Personal Review
+### UTS-5: My Personal Review
 
 Review reflektif menggunakan bantuan ChatGPT untuk menilai karya sendiri; menunjukkan kesadaran metakognitif tinggi.
 
@@ -107,7 +107,7 @@ Pendekatan reflektif berbasis AI ini menarik dan inovatif. Bisa lebih kuat bila 
 
 ---
 
-# Rekap Skor dan Kontribusi CPMK
+## Rekap Skor dan Kontribusi CPMK
 
 | UTS | Rata-rata Skor (1–5) | Persentase | CPMK Terkait |
 |------|-----------------------|-------------|----------------|
@@ -121,7 +121,7 @@ Pendekatan reflektif berbasis AI ini menarik dan inovatif. Bisa lebih kuat bila 
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Lukman menunjukkan kemampuan komunikasi personal yang matang, empatik, dan reflektif. 
 Progres antar-UTS terasa konsisten — dari pengenalan diri hingga evaluasi pribadi — semuanya mencerminkan pemahaman konsep komunikasi interpersonal secara menyeluruh.  
