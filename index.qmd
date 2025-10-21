@@ -2,6 +2,8 @@
 
 **Portfolio Asesmen II-2100 KIPP**  
 
+![Foto Lukman Hakim Syah Ardhana](images/IMG_9791.JPG){width=600px align="center"}
+
 Selamat datang di website ini, yang dibuat sebagai bagian dari tugas mata kuliah **II2100 – Komunikasi Interpersonal dan Publik** pada Program Studi Sistem dan Teknologi Informasi, Sekolah Teknik Elektro dan Informatika – Institut Teknologi Bandung (ITB).  
 
 Website ini bertujuan untuk mendokumentasikan proses pembelajaran, refleksi pribadi, serta karya-karya yang dihasilkan selama perkuliahan. Setiap bagian dirancang untuk menunjukkan bagaimana konsep-konsep komunikasi, seperti kesadaran diri, empati, mendengarkan aktif, hingga komunikasi publik, dapat diterapkan dalam kehidupan akademik maupun profesional.  
@@ -14,11 +16,11 @@ Dengan navigasi yang jelas dan terstruktur, pengunjung dapat dengan mudah menjel
 
 ## Navigasi
 
-- [UTS-1 All About Me](https://lukmanhakimsa.github.io/all-about-me/All_About_me/#awal-perjalanan)  
-- [UTS-2 My Songs for You](./UTS-2-My-Songs-for-You.md)  
-- [UTS-3 My Stories for You](./UTS-3-My-Stories-for-You.md)  
-- [UTS-4 My SHAPE](./UTS-4-My-SHAPE.md)  
-- [UTS-5 My Personal Reviews](./UTS-5-My-Personal-Reviews.md)  
+- [UTS-1 All About Me](All_About_me/index.qmd)
+- [UTS-2 My Songs for You](My_Song_for_You/index.qmd)
+- [UTS-3 My Stories for You](My_Stories_for_You/index.qmd)
+- [UTS-4 My SHAPE](My_Shapes/index.qmd)
+- [UTS-5 My Personal Reviews](My_Personal_Reviews/index.qmd)
 
 ## Highlight
 
