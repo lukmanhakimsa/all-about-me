@@ -6,6 +6,8 @@ format:
   html:
     theme: cosmo
     toc: true
+resources:
+  - My_Personal_Reviews/UTS-5_Skor-2.xlsx
 ---
 
 ## Identifikasi
@@ -18,14 +20,9 @@ format:
 
 ## LINK SCORE UTS PEER TO PEER
 
-[Link Excel](https://docs.google.com/spreadsheets/d/1e1VKO3qTs9bRmDoLfmCZYr2Acg0--6_l/edit?usp=sharing&ouid=113644725819428153387&rtpof=true&sd=true)
+[Link Excel](https://docs.google.com/spreadsheets/d/1e1VKO3qTs9bRmDoLfmCZYr2Acg0--6_l/edit?usp=sharing&ouid=113644725819428153387&rtpof=true&sd=true)  
 
-<!-- Tombol unduh cadangan (file lokal di proyek) -->
-<p style="margin-top:0.75rem;">
-  <a class="btn btn-outline-primary" href="UTS-5_Skor-2.xlsx" download>
-    ⬇️ Unduh Cadangan (XLSX)
-  </a>
-</p>
+[Unduh Cadangan (XLSX)](My_Personal_Reviews/UTS-5_Skor-2.xlsx)
 
 ___
 
