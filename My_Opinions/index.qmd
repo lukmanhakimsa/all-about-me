@@ -1,5 +1,7 @@
 # UAS-2 My Opinions  
 ## “AI Bukan Penyihir Air Bersih. AI adalah Penguat Akuntabilitas.”
+**BUILD CHECK:** 2025-12-24  (TEST)
+
 
 
 <nav>
