@@ -1,7 +1,71 @@
-## UAS-4 My Knowledge
+# UAS-4 — My Knowledge  
+## Body of Knowledge untuk Mewujudkan AQUA-NUSA sebagai Sistem STI di Era AI
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+
+<nav>
+<strong>AQUA-NUSA Repo</strong> ·
+<a href="./index.md">Home</a> ·
+<a href="./uas/UAS-1-My-Concepts.md">UAS-1</a> ·
+<a href="./uas/UAS-2-My-Opinions.md">UAS-2</a> ·
+<a href="./uas/UAS-3-My-Innovations.md">UAS-3</a> ·
+<a href="./uas/UAS-4-My-Knowledge.md">UAS-4</a> ·
+<a href="./uas/UAS-5-My-Professional-Reviews.md">UAS-5</a> ·
+<a href="./references.md">References</a>
+</nav>
+
+
+### 1) Pengetahuan Domain: Air Bersih & Sanitasi
+Krisis air bersih terjadi ketika populasi tidak punya akses air minum aman atau sanitasi memadai; penyebabnya bisa kelangkaan air, infrastruktur buruk, pencemaran, dan kemiskinan. Dampaknya mencakup penyakit, penurunan produktivitas, dan menghambat pendidikan.  
+*(Sumber: Top-10 Problems, masalah #6 — Air Bersih & Sanitasi, PDF kelas)*
+
+### 2) Pengetahuan Data: Minimum Viable Evidence + Data Governance
+Karena lapangan tidak ideal, saya menggunakan prinsip:
+- data sederhana tapi konsisten,
+- provenance + timestamp + lokasi,
+- verifikasi berlapis (petugas + warga),
+- mekanisme anti-spam dan perlindungan privasi.
+
+**Data model minimum:**
+- `Event` (kejadian/laporan/sensor),
+- `Asset` (pipa/sumber air/toilet),
+- `Ticket` (pekerjaan),
+- `Verification` (bukti penyelesaian),
+- `Feedback` (kepuasan/konfirmasi warga).
+
+### 3) Pengetahuan AI: Metode Tepat Guna (Service-Oriented AI)
+AQUA-NUSA memakai AI untuk:
+- klasifikasi laporan warga (NLP),
+- deteksi anomali kualitas air (time-series),
+- risk scoring (prioritisasi),
+- rekomendasi tindakan (playbook + pembelajaran).
+
+**Prinsip aman:**
+- jika confidence rendah → minta verifikasi, bukan memaksa keputusan otomatis,
+- audit trail untuk perubahan model/rule (governance).
+
+### 4) Pengetahuan Rekayasa Sistem: Operasi, Observability, dan Ketahanan
+Sistem layanan publik wajib punya:
+- ticketing + SLA,
+- status transparan,
+- audit trail (siapa melakukan apa),
+- observability (log + metrik),
+- offline-first + sinkronisasi,
+- prosedur fallback saat sistem down.
+
+Tanpa ini, AI hanya jadi demo.
+
+### 5) Etika, Keamanan, dan Fairness
+- **Privasi:** lokasi/identitas pelapor dilindungi; data kesehatan agregat.  
+- **Keamanan:** rate limiting, verifikasi, deteksi laporan palsu, dan kontrol akses.  
+- **Fairness:** wilayah minim data dipetakan sebagai risiko; SLA tidak boleh “bias keramaian”.
+
+### 6) Evaluasi Dampak: Ukur yang benar
+Pisahkan metrik:
+- **Model metrics:** akurasi klasifikasi, false alarm, calibration  
+- **Service metrics:** MTTA/MTTR, resolution rate, repeat rate, SLA compliance  
+- **Equity metrics:** gap waktu tanggap wilayah rentan vs non-rentan  
+- **Outcome proxy:** tren keluhan & indikator kesehatan agregat (bila tersedia)
+
+### 7) Penutup
+Body of knowledge ini membuat AQUA-NUSA bukan sekadar ide, tetapi sistem yang bisa dirancang, diuji, dioperasikan, dan diperbaiki secara berkelanjutan.
+
