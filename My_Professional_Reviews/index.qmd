@@ -1,4 +1,4 @@
-# UAS-5 — My Professional Reviews  
+# UAS-5 My Professional Reviews  
 ## Professional Rubric Review (by AI Assistant)
 
 
@@ -10,7 +10,6 @@ Dokumen ini berisi **review profesional** untuk rangkaian:
 - **UAS-4 My Knowledge** (Body of Knowledge untuk implementasi)
 
 Skala penilaian rubrik: **5 (Excellent) – 1 (Poor)**.  
-Penilaian ini ditulis **hanya dari saya** (AI assistant), tanpa bagian peer assessment.
 
 
 ### 1) Executive Summary (Skor Tinggi & Ringkas) {.unnumbered .unlisted}
@@ -31,7 +30,7 @@ Penilaian ini ditulis **hanya dari saya** (AI assistant), tanpa bagian peer asse
 
 ### A1) Rubrik Konsep & Skor {.unnumbered .unlisted}
 
-| Kriteria | Skor | Bukti Kekuatan dari Teks | Catatan Penyempurna (biar “full excellent”) |
+| Kriteria | Skor | Bukti Kekuatan dari Teks | Catatan Penyempurna  |
 |---|---:|---|---|
 | **Clarity** | **5** | Definisi masterpiece jelas sebagai sistem sosio-teknis; pembaca cepat paham “apa itu AQUA-NUSA” dan “buat apa”. Struktur 4-lapis membantu readability. | Tambahkan 2 kalimat “scope & non-scope” (apa yang dikerjakan vs bukan) agar makin tajam. |
 | **Logic** | **5** | Alur argumentasi rapih: krisis air → krisis koordinasi → arsitektur evidence→intelligence→coordination → outcome. Ada rantai sebab-akibat yang masuk akal. | Tambahkan 1 diagram kecil “evidence → decision trace → action → verification → learning” sebagai ringkasan logika. |
