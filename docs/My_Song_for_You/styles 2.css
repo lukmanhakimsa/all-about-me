@@ -1,0 +1,14 @@
+/* styles.css */
+body { scroll-behavior: smooth; }
+h2, h3 { letter-spacing: 0.2px; }
+p { line-height: 1.75; }
+
+.lyrics, .content p {
+  line-height: 1.9;
+}
+
+iframe {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+}

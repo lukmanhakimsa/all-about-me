@@ -1,0 +1,102 @@
+---
+title: "UTS-2 My Songs for You"
+format: 
+  html:
+    theme: minty
+    toc: false
+    css: styles.css
+---
+
+## Halfway Home 🎵
+oleh **Lukman Hakim Syah Ardhana**
+
+---
+
+## Tentang Karya
+
+*“Halfway Home”* saya buat sebagai refleksi perjalanan pulang — bukan hanya pulang secara fisik, tapi juga secara emosional.  
+Lagu ini menggambarkan fase di mana seseorang belum sepenuhnya sembuh, namun sudah cukup kuat untuk melangkah kembali ke arah yang lebih tenang.
+
+Karya ini selaras dengan pembelajaran di mata kuliah **Komunikasi Interpersonal & Publik**, di mana saya belajar bahwa proses memahami diri sendiri dan orang lain adalah bagian dari “pulang” itu sendiri — dari konflik, dialog, hingga menerima diri.
+
+---
+
+## Proses Kreatif
+
+Lagu ini saya tulis sepenuhnya berdasarkan refleksi pribadi.  
+Produksi musiknya dibuat menggunakan **Suno.ai**, sementara proses **video editing dan visualisasi dilakukan di CapCut dan Canva** untuk menjaga tone yang lembut dan personal.
+
+Fokus saya bukan pada kompleksitas teknologinya, melainkan pada pesan yang ingin disampaikan: bahwa meski belum sepenuhnya “sampai rumah”, perjalanan pulang itu sendiri tetap berarti.
+
+---
+
+## Video Karya
+
+<div style="text-align:center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qKywgE79b1Q" 
+  title="Halfway Home — Lukman Hakim Syah Ardhana" 
+  frameborder="0" allowfullscreen></iframe>
+</div>
+
+[🎬 Tonton di YouTube](https://youtu.be/qKywgE79b1Q)
+
+---
+
+## Lirik Lagu
+
+### **Halfway Home — Lukman Hakim Syah Ardhana**
+
+**Verse 1**  
+I used to wait for your message to light up my phone  
+Now I’m learning to sit with the silence alone  
+Every corner of this room still remembers your name  
+But I’m painting it over, I’m not the same  
+
+**Pre-Chorus**  
+Maybe love’s not about staying  
+Maybe it’s how you keep going  
+When the one you held close  
+Starts fading like smoke  
+
+**Chorus**  
+I’m halfway home, still finding my peace  
+Broken but breathing, learning release  
+I lost a part of me when you walked away  
+But I’m proud of the cracks — they show I’ve changed  
+Yeah, I’m halfway home  
+
+**Verse 2**  
+I’ve been chasing light through the mess in my head  
+Trying to forgive the things I never said  
+Every scar I hide is a story to tell  
+Of the nights I fell down, and got up as well  
+
+**Pre-Chorus**  
+Maybe strength’s not in winning  
+It’s in learning to keep living  
+When your heart still aches  
+But your soul awakes  
+
+**Chorus**  
+I’m halfway home, still finding my peace  
+Broken but breathing, learning release  
+I lost a part of me when you walked away  
+But I’m proud of the cracks — they show I’ve changed  
+Yeah, I’m halfway home  
+
+**Bridge**  
+If I ever see you again someday  
+I’ll smile and say, I’m okay  
+Not ‘cause I don’t care  
+But ‘cause I learned to stay  
+Even when you’re not there  
+
+**Outro**  
+So here’s to the tears that helped me grow  
+To the love I had to let go  
+I’m not lost, I’m just alone  
+But that’s okay, I’m halfway home  
+
+---
+
+© 2025 Lukman Hakim Syah Ardhana · Video by CapCut & Canva · [Tonton di YouTube](https://youtu.be/qKywgE79b1Q)
