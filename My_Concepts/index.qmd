@@ -1,6 +1,7 @@
 # UAS-1 My Concepts  
 ## AQUA-NUSA: Mahakarya Sosio-Teknis Berbasis AI untuk Koordinasi Air Bersih & Sanitasi
 
+
 ### 1) Latar Masalah dan Alasan Pemilihan
 Krisis air bersih dan sanitasi adalah salah satu masalah kemanusiaan yang tampak “sehari-hari”, tapi dampaknya fundamental: kesehatan, produktivitas, pendidikan, hingga kemiskinan. Dalam daftar Top-10 Masalah Kemanusiaan, krisis ini menegaskan skala yang sangat besar (miliaran manusia terdampak), sehingga problemnya bukan hanya “ada teknologi atau tidak”, tapi **bagaimana manusia bisa mengoordinasikan solusi dalam skala populasi**.  
 *(Sumber: Top-10 Problems, masalah #6 — Air Bersih & Sanitasi, PDF kelas)*
