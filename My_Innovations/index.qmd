@@ -2,18 +2,6 @@
 ## PUDAL-Loop Orchestrator: dari Sinyal → Keputusan → Aksi → Pembelajaran
 
 
-<nav>
-<strong>AQUA-NUSA Repo</strong> ·
-<a href="./index.md">Home</a> ·
-<a href="./uas/UAS-1-My-Concepts.md">UAS-1</a> ·
-<a href="./uas/UAS-2-My-Opinions.md">UAS-2</a> ·
-<a href="./uas/UAS-3-My-Innovations.md">UAS-3</a> ·
-<a href="./uas/UAS-4-My-Knowledge.md">UAS-4</a> ·
-<a href="./uas/UAS-5-My-Professional-Reviews.md">UAS-5</a> ·
-<a href="./references.md">References</a>
-</nav>
-
-
 ### 1) Masalah yang ingin dipecahkan inovasi
 Banyak sistem pelaporan publik berhenti di “bisa lapor”. Yang sering hilang:
 - proses triase,
