@@ -242,21 +242,21 @@
   {
     "objectID": "My_Concepts/index.html",
     "href": "My_Concepts/index.html",
-    "title": "6  UAS-1 — My Concepts",
+    "title": "6  UAS-1 My Concepts",
     "section": "",
     "text": "AQUA-NUSA: Mahakarya Sosio-Teknis Berbasis AI untuk Koordinasi Air Bersih & Sanitasi",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 — My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#aqua-nusa-mahakarya-sosio-teknis-berbasis-ai-untuk-koordinasi-air-bersih-sanitasi",
     "href": "My_Concepts/index.html#aqua-nusa-mahakarya-sosio-teknis-berbasis-ai-untuk-koordinasi-air-bersih-sanitasi",
-    "title": "6  UAS-1 — My Concepts",
+    "title": "6  UAS-1 My Concepts",
     "section": "",
     "text": "1) Latar Masalah dan Alasan Pemilihan\nKrisis air bersih dan sanitasi adalah salah satu masalah kemanusiaan yang tampak “sehari-hari”, tapi dampaknya fundamental: kesehatan, produktivitas, pendidikan, hingga kemiskinan. Dalam daftar Top-10 Masalah Kemanusiaan, krisis ini menegaskan skala yang sangat besar (miliaran manusia terdampak), sehingga problemnya bukan hanya “ada teknologi atau tidak”, tapi bagaimana manusia bisa mengoordinasikan solusi dalam skala populasi.\n(Sumber: Top-10 Problems, masalah #6 — Air Bersih & Sanitasi, PDF kelas)\n\n\n2) Definisi “Masterpiece” di Era AI\nBagi saya, “masterpiece” bukan aplikasi tunggal atau model AI paling akurat, melainkan sistem sosio-teknis: gabungan manusia–proses–data–teknologi yang: 1. Membaca realitas (mengubah kejadian lapangan jadi bukti yang bisa diproses), 2. Menyusun makna (menerjemahkan bukti menjadi situasi, prioritas, dan risiko), 3. Menggerakkan aksi (menciptakan pekerjaan nyata lintas pihak), 4. Belajar (membuat perbaikan kumulatif, bukan proyek yang “reset”).\nSaya menamai masterpiece ini AQUA-NUSA: platform koordinasi air bersih & sanitasi berbasis AI yang menekankan AI for Accountability.\n\n\n3) Premis Konseptual: Krisis Air = Krisis Koordinasi\nBanyak sistem layanan air gagal bukan karena “tidak ada aplikasi”, tetapi karena: - sinyal gangguan telat (tidak ada sensing atau pelaporan terstruktur), - prioritas tidak jelas (siapa duluan? berdasarkan apa?), - tindak lanjut tidak terlacak (work order tidak transparan), - pembelajaran hilang (kejadian berulang tanpa akar masalah).\nDokumen Top-10 juga menekankan bahwa masalah global saling terkait (interconnectedness) dan butuh pendekatan komprehensif. Maka, AQUA-NUSA dirancang sebagai mesin koordinasi, bukan “alat analitik” saja.\n(Sumber: Top-10 Problems — catatan interkonektivitas, PDF kelas)\n\n\n4) Arsitektur Konseptual AQUA-NUSA (4 Lapis)\n\n(A) Reality Layer — Dunia Nyata\nObjeknya: sumber air, pipa, sumur, depot, toilet komunal, perilaku higienitas, serta kejadian (banjir/kekeringan) dan insiden (kontaminasi, kebocoran, antrean).\n\n\n(B) Evidence Layer — Bukti\nSaya memakai prinsip minimum viable evidence: bukti boleh sederhana, tapi harus traceable: - sensor sederhana (mis. turbidity/pH) bila tersedia, - inspeksi petugas, - laporan warga (teks + foto), - data fasilitas kesehatan secara agregat (jika memungkinkan dan aman).\nKunci lapisan ini: provenance, timestamp, lokasi, dan verifikasi.\n\n\n(C) Intelligence Layer — AI + Aturan\nAI berfungsi sebagai “mesin penyusun situasi”: - deteksi anomali kualitas air, - klasifikasi keluhan warga, - prediksi risiko (kekeringan, lonjakan keluhan), - prioritisasi wilayah rentan.\nNamun, rule engine tetap penting agar keputusan bisa dijelaskan, diaudit, dan sesuai kebijakan layanan.\n\n\n(D) Coordination Layer — Orkestrasi Aksi\nBagian ini yang membuat sistem “hidup”: - ticketing + SLA, - penugasan tim, - rute kerja, - pengadaan logistik, - komunikasi status ke warga, - audit tindak lanjut.\n\n\n\n5) Tiga Kompas Nilai\n\nJustice-by-Design: wilayah minim data tidak boleh tertinggal (offline-first + verifikasi komunitas).\n\nTrust & Accountability: jejak alasan untuk setiap keputusan.\n\nSustainability: fokus pada pencegahan + perawatan, bukan respons reaktif semata.\n\n\n\n6) Stakeholder dan Batas Sistem\nStakeholder: warga, operator air/pengelola fasilitas, pemerintah daerah/regulator, tenaga kesehatan (indikator dampak), vendor/logistik.\nBatas sistem: AQUA-NUSA tidak membangun pipa secara fisik, tetapi membuat layanan lebih andal lewat koordinasi berbasis bukti.\n\n\n7) Kriteria Keberhasilan (Outcome)\n\nMTTA/MTTR turun,\ngangguan berulang turun,\npenyelesaian tiket naik,\nkepuasan warga naik,\nfairness meningkat (wilayah rentan tidak tertinggal).\n\nKesimpulan: Masterpiece ini adalah “operating system” koordinasi air & sanitasi yang mengubah data menjadi aksi, dan aksi menjadi pembelajaran.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 — My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
@@ -332,71 +332,71 @@
   {
     "objectID": "My_Professional_Reviews/index.html",
     "href": "My_Professional_Reviews/index.html",
-    "title": "10  UAS-5 — My Professional Reviews",
+    "title": "10  UAS-5 My Professional Reviews",
     "section": "",
     "text": "10.1 Professional Rubric Review (by AI Assistant)",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 — My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   },
   {
     "objectID": "My_Professional_Reviews/index.html#professional-rubric-review-by-ai-assistant",
     "href": "My_Professional_Reviews/index.html#professional-rubric-review-by-ai-assistant",
-    "title": "10  UAS-5 — My Professional Reviews",
+    "title": "10  UAS-5 My Professional Reviews",
     "section": "",
-    "text": "0) Ruang Lingkup Review\nDokumen ini berisi review profesional untuk rangkaian: - UAS-1 My Concepts (AQUA-NUSA sebagai masterpiece sosio-teknis) - UAS-2 My Opinions (AI for Accountability) - UAS-3 My Innovations (PUDAL-Loop Orchestrator) - UAS-4 My Knowledge (Body of Knowledge untuk implementasi)\nSkala penilaian rubrik: 5 (Excellent) – 1 (Poor).\nPenilaian ini ditulis hanya dari saya (AI assistant), tanpa bagian peer assessment.\n\n\n1) Executive Summary (Skor Tinggi & Ringkas)\n\n\n\n\n\n\n\n\n\nArtefak\nRubrik\nSkor Total\nKesimpulan\n\n\n\n\nUAS-1 — Concepts\nClarity, Logic, Validity, Usefulness\n19/20\nKonsep matang, arsitektur jelas, sangat aplikatif; tinggal tambah bukti/rujukan kuantitatif\n\n\nUAS-2 — Opinions\nCompelling, Informative, Persuasive, Engaging\n19/20\nOpini kuat dan “punya posisi”; kontra-argumen rapi; akan makin excellent dengan contoh kasus & data\n\n\nUAS-3 — Innovations\n(Rubrik turunan inovasi) Novelty, Feasibility, Specificity, Evaluation\n19/20\nInovasi terasa engineering: modul lengkap, workflow jelas, ada evidence→ticket→verify→learn\n\n\nUAS-4 — Knowledge\n(Rubrik turunan knowledge) Coverage, Depth, Accuracy, Applicability\n18/20\nBody of knowledge solid dan relevan; tinggal diperdalam ke SOP/Checklist operasional & governance\n\n\n\nSkor keseluruhan (rata-rata): 18.75/20 (Excellent)",
+    "text": "0) Ruang Lingkup Review\nDokumen ini berisi review profesional untuk rangkaian: - UAS-1 My Concepts (AQUA-NUSA sebagai masterpiece sosio-teknis) - UAS-2 My Opinions (AI for Accountability) - UAS-3 My Innovations (PUDAL-Loop Orchestrator) - UAS-4 My Knowledge (Body of Knowledge untuk implementasi)\nSkala penilaian rubrik: 5 (Excellent) – 1 (Poor).\n\n\n1) Executive Summary (Skor Tinggi & Ringkas)\n\n\n\n\n\n\n\n\n\nArtefak\nRubrik\nSkor Total\nKesimpulan\n\n\n\n\nUAS-1 — Concepts\nClarity, Logic, Validity, Usefulness\n19/20\nKonsep matang, arsitektur jelas, sangat aplikatif; tinggal tambah bukti/rujukan kuantitatif\n\n\nUAS-2 — Opinions\nCompelling, Informative, Persuasive, Engaging\n19/20\nOpini kuat dan “punya posisi”; kontra-argumen rapi; akan makin excellent dengan contoh kasus & data\n\n\nUAS-3 — Innovations\n(Rubrik turunan inovasi) Novelty, Feasibility, Specificity, Evaluation\n19/20\nInovasi terasa engineering: modul lengkap, workflow jelas, ada evidence→ticket→verify→learn\n\n\nUAS-4 — Knowledge\n(Rubrik turunan knowledge) Coverage, Depth, Accuracy, Applicability\n18/20\nBody of knowledge solid dan relevan; tinggal diperdalam ke SOP/Checklist operasional & governance\n\n\n\nSkor keseluruhan (rata-rata): 18.75/20 (Excellent)",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 — My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   },
   {
     "objectID": "My_Professional_Reviews/index.html#a-review-uas-1-my-concepts-aqua-nusa",
     "href": "My_Professional_Reviews/index.html#a-review-uas-1-my-concepts-aqua-nusa",
-    "title": "10  UAS-5 — My Professional Reviews",
+    "title": "10  UAS-5 My Professional Reviews",
     "section": "10.2 A) Review UAS-1 — My Concepts (AQUA-NUSA)",
-    "text": "10.2 A) Review UAS-1 — My Concepts (AQUA-NUSA)\n\nA1) Rubrik Konsep & Skor\n\n\n\n\n\n\n\n\n\nKriteria\nSkor\nBukti Kekuatan dari Teks\nCatatan Penyempurna (biar “full excellent”)\n\n\n\n\nClarity\n5\nDefinisi masterpiece jelas sebagai sistem sosio-teknis; pembaca cepat paham “apa itu AQUA-NUSA” dan “buat apa”. Struktur 4-lapis membantu readability.\nTambahkan 2 kalimat “scope & non-scope” (apa yang dikerjakan vs bukan) agar makin tajam.\n\n\nLogic\n5\nAlur argumentasi rapih: krisis air → krisis koordinasi → arsitektur evidence→intelligence→coordination → outcome. Ada rantai sebab-akibat yang masuk akal.\nTambahkan 1 diagram kecil “evidence → decision trace → action → verification → learning” sebagai ringkasan logika.\n\n\nValidity\n4\nKlaim-klaimnya konsisten dan realistis (offline-first, verifikasi, rule engine). Validitas konsep kuat secara engineering.\nTambahkan 2–3 data point (angka dampak/akses air) + rujukan publik supaya validitas makin “terkunci”.\n\n\nUsefulness\n5\nSangat bisa dipakai: stakeholder, batas sistem, KPI (MTTA/MTTR, repeat rate, fairness). Ini blueprint yang bisa langsung diimplementasikan.\nTambahkan “pilot plan 90 hari” (scope kecil + target KPI) agar makin actionable.\n\n\n\nTotal UAS-1: 19/20 (Excellent)\n\n\nA2) Review Profesional Singkat\nUAS-1 kamu sudah bukan “ide besar doang”, tapi konsep yang bisa diturunkan jadi sistem. Nilai plusnya: kamu menempatkan AI sebagai alat akuntabilitas, bukan pusat segalanya.",
+    "text": "10.2 A) Review UAS-1 — My Concepts (AQUA-NUSA)\n\nA1) Rubrik Konsep & Skor\n\n\n\n\n\n\n\n\n\nKriteria\nSkor\nBukti Kekuatan dari Teks\nCatatan Penyempurna\n\n\n\n\nClarity\n5\nDefinisi masterpiece jelas sebagai sistem sosio-teknis; pembaca cepat paham “apa itu AQUA-NUSA” dan “buat apa”. Struktur 4-lapis membantu readability.\nTambahkan 2 kalimat “scope & non-scope” (apa yang dikerjakan vs bukan) agar makin tajam.\n\n\nLogic\n5\nAlur argumentasi rapih: krisis air → krisis koordinasi → arsitektur evidence→intelligence→coordination → outcome. Ada rantai sebab-akibat yang masuk akal.\nTambahkan 1 diagram kecil “evidence → decision trace → action → verification → learning” sebagai ringkasan logika.\n\n\nValidity\n4\nKlaim-klaimnya konsisten dan realistis (offline-first, verifikasi, rule engine). Validitas konsep kuat secara engineering.\nTambahkan 2–3 data point (angka dampak/akses air) + rujukan publik supaya validitas makin “terkunci”.\n\n\nUsefulness\n5\nSangat bisa dipakai: stakeholder, batas sistem, KPI (MTTA/MTTR, repeat rate, fairness). Ini blueprint yang bisa langsung diimplementasikan.\nTambahkan “pilot plan 90 hari” (scope kecil + target KPI) agar makin actionable.\n\n\n\nTotal UAS-1: 19/20 (Excellent)\n\n\nA2) Review Profesional Singkat\nUAS-1 kamu sudah bukan “ide besar doang”, tapi konsep yang bisa diturunkan jadi sistem. Nilai plusnya: kamu menempatkan AI sebagai alat akuntabilitas, bukan pusat segalanya.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 — My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   },
   {
     "objectID": "My_Professional_Reviews/index.html#b-review-uas-2-my-opinions-ai-for-accountability",
     "href": "My_Professional_Reviews/index.html#b-review-uas-2-my-opinions-ai-for-accountability",
-    "title": "10  UAS-5 — My Professional Reviews",
+    "title": "10  UAS-5 My Professional Reviews",
     "section": "10.3 B) Review UAS-2 — My Opinions (“AI for Accountability”)",
     "text": "10.3 B) Review UAS-2 — My Opinions (“AI for Accountability”)\n\nB1) Rubrik Opini & Skor\n\n\n\n\n\n\n\n\n\nKriteria\nSkor\nBukti Kekuatan dari Teks\nCatatan Penyempurna\n\n\n\n\nCompelling\n5\nOpening/tesis “AI bukan penyihir… penguat akuntabilitas” kuat dan memorable. Posisi jelas dan berani.\nTambahkan 1 contoh mini (vignette) 5–7 kalimat agar lebih “menggigit” emosional.\n\n\nInformative\n4\nMengajarkan pembaca: bedanya akurasi vs dampak, transparansi, fairness-by-design.\nTambahkan 1 data point + 1 contoh KPI supaya makin informatif (nggak cuma konsep).\n\n\nPersuasive\n5\nAda kontra-argumen dan respons yang masuk akal; tesis terasa tahan banting.\nTambahkan 1 analogi kuat (mis. “operating system layanan”) untuk memperkuat daya persuasi.\n\n\nEngaging\n5\nRitme enak dibaca: A–D + kontra-argumen + penutup. Tidak terasa bertele-tele.\nTambahkan 1 call-to-action spesifik di penutup (mis. “mulai dari transparansi status tiket”).\n\n\n\nTotal UAS-2: 19/20 (Excellent)\n\n\nB2) Review Profesional Singkat\nOpini kamu sudah memenuhi kriteria opini “berpengaruh”: jelas, berpihak, dan siap dipertanggungjawabkan. Tinggal naik kelas dengan bukti (data/kasus).",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 — My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   },
   {
     "objectID": "My_Professional_Reviews/index.html#c-review-uas-3-my-innovations-pudal-loop-orchestrator",
     "href": "My_Professional_Reviews/index.html#c-review-uas-3-my-innovations-pudal-loop-orchestrator",
-    "title": "10  UAS-5 — My Professional Reviews",
+    "title": "10  UAS-5 My Professional Reviews",
     "section": "10.4 C) Review UAS-3 — My Innovations (PUDAL-Loop Orchestrator)",
     "text": "10.4 C) Review UAS-3 — My Innovations (PUDAL-Loop Orchestrator)\n\nC1) Rubrik Inovasi (Turunan) & Skor\nSaya pakai rubrik inovasi yang profesional (selaras dengan rubrik lain):\nNovelty (keunikan bermakna), Feasibility (realistis), Specificity (detail implementasi), Evaluation (cara menguji sukses).\n\n\n\n\n\n\n\n\n\nKriteria\nSkor\nBukti Kekuatan dari Teks\nCatatan Penyempurna\n\n\n\n\nNovelty\n5\nInovasi bukan “model AI”, tapi loop orkestrasi yang menutup gap pelaporan→aksi→verifikasi. Ini pembeda yang kuat dari sistem pelaporan biasa.\nBisa ditambah 2 kalimat pembanding eksplisit “bedanya dengan app pelaporan biasa”.\n\n\nFeasibility\n5\nAda offline-first, minimum viable evidence, human-in-loop untuk risiko tinggi, playbook + SLA. Sangat realistis untuk layanan publik.\nTambahkan “peran tim” (operator, verifier, dispatcher) agar makin implementable.\n\n\nSpecificity\n5\nModul A–E detail, ada contoh JSON, status ticket, bukti closure. Ini level engineering yang matang.\nTambahkan 1 sequence diagram ringkas (boleh gambar sederhana).\n\n\nEvaluation\n4\nAda metrik MTTA/MTTR, repeat rate, fairness gap, satisfaction. Learning layer jelas.\nTambahkan uji abuse/spam + threshold confidence untuk memperkuat evaluasi.\n\n\n\nTotal UAS-3: 19/20 (Excellent)\n\n\nC2) Review Profesional Singkat\nUAS-3 adalah bagian yang paling “engineering”: konkret, modular, dan punya workflow jelas. Kamu sudah bicara dalam bahasa sistem, bukan sekadar narasi.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 — My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   },
   {
     "objectID": "My_Professional_Reviews/index.html#d-review-uas-4-my-knowledge-body-of-knowledge",
     "href": "My_Professional_Reviews/index.html#d-review-uas-4-my-knowledge-body-of-knowledge",
-    "title": "10  UAS-5 — My Professional Reviews",
+    "title": "10  UAS-5 My Professional Reviews",
     "section": "10.5 D) Review UAS-4 — My Knowledge (Body of Knowledge)",
     "text": "10.5 D) Review UAS-4 — My Knowledge (Body of Knowledge)\n\nD1) Rubrik Knowledge (Turunan) & Skor\nSaya pakai rubrik knowledge yang cocok untuk STI:\nCoverage (cakupan), Depth (kedalaman), Accuracy (konsistensi), Applicability (bisa dipakai).\n\n\n\n\n\n\n\n\n\nKriteria\nSkor\nBukti Kekuatan dari Teks\nCatatan Penyempurna\n\n\n\n\nCoverage\n5\nKamu mencakup domain + data + AI + operasi layanan + etika/fairness. Ini lengkap untuk sebuah sistem layanan publik.\nTinggal tambah “data retention & access control” sebagai pelengkap.\n\n\nDepth\n4\nPengetahuan sudah masuk ke level operasional (SLA, verifikasi, governance), walau masih bisa dibuat lebih teknis.\nTambahkan 1 halaman SOP ringkas & checklist deployment.\n\n\nAccuracy\n5\nKonsisten dengan UAS-1..3: AI sebagai penguat proses, bukan pengganti keputusan; verifikasi dan audit trail jadi inti.\nBisa tambah definisi istilah (evidence, verified, closure) untuk mencegah multi-tafsir.\n\n\nApplicability\n4\nSudah bisa jadi pegangan implementasi; tinggal dipadatkan jadi checklist 1 halaman agar “langsung pakai”.\nBuat checklist: sebelum deploy / saat operasi / setelah incident.\n\n\n\nTotal UAS-4: 18/20 (Excellent)\n\n\nD2) Review Profesional Singkat\nUAS-4 kamu sudah menunjukkan kamu paham “dunia nyata” (governance, fairness, operasi). Supaya makin “profesional banget”, ubah sebagian jadi SOP/Checklist.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 — My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   },
   {
     "objectID": "My_Professional_Reviews/index.html#e-saran-revisi-high-impact-low-effort",
     "href": "My_Professional_Reviews/index.html#e-saran-revisi-high-impact-low-effort",
-    "title": "10  UAS-5 — My Professional Reviews",
+    "title": "10  UAS-5 My Professional Reviews",
     "section": "E) Saran Revisi “High Impact, Low Effort”",
     "text": "E) Saran Revisi “High Impact, Low Effort”\nKalau kamu mau bikin paket ini makin killer tanpa nambah panjang berlebihan: 1) Tambah 3 data point + 3 referensi publik (UAS-1 & UAS-2). 2) Tambah pilot plan 90 hari: scope kecil, KPI target, risiko (UAS-1 & UAS-3). 3) Tambah test plan singkat: abuse/spam, data missing, fairness threshold (UAS-3). 4) Tambah checklist governance 1 halaman (UAS-4).\nFinal note: Secara kualitas struktur, logika, dan engineering detail, rangkaian UAS kamu sudah berada di level Excellent—tinggal “mengunci” validitas dengan data/rujukan dan mempertegas SOP.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 — My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   },
   {
