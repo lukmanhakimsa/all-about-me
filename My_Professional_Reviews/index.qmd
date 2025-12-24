@@ -17,9 +17,9 @@ Skala penilaian rubrik: **5 (Excellent) – 1 (Poor)**.
 
 ## LINK SCORE UAS PEER TO PEER
 
-[Link Excel](https://docs.google.com/spreadsheets/d/1e1VKO3qTs9bRmDoLfmCZYr2Acg0--6_l/edit?usp=sharing&ouid=113644725819428153387&rtpof=true&sd=true)  
+[Link Excel](https://docs.google.com/spreadsheets/d/1aFLbjPAKPdBnakeHRwLOtp61OHnVw9NPtDAq8dJ_vs4/edit?usp=sharing)  
 
-[Unduh Cadangan (XLSX)](My_Personal_Reviews/UTS-5_Skor-2.xlsx)
+[Unduh Cadangan (XLSX)](My_Professional_Reviews/UAS-5_Skor-2.xlsx)
 
 
 ## Executive Summary 
