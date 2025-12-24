@@ -1,33 +1,5 @@
 # UAS-5 My Professional Reviews  
 ## Professional Rubric Review (by AI Assistant)
----
-title: "UAS-5 My Professional Reviews"
-author: "Penilai: ChatGPT (berdasarkan rubrik II2100)"
-date: "2025-12-24"
-format:
-  html:
-    theme: cosmo
-    toc: true
----
-
-## Identifikasi
-
-| Nama | NIM |
-|------|-----|
-| **Lukman Hakim Syah Ardhana** | **18224097** |
-
----
-
-## LINK SCORE UAS PEER TO PEER
-
-[Link Excel](https://docs.google.com/spreadsheets/d/1e1VKO3qTs9bRmDoLfmCZYr2Acg0--6_l/edit?usp=sharing&ouid=113644725819428153387&rtpof=true&sd=true)  
-
-[Unduh Cadangan (XLSX)](My_Personal_Reviews/UTS-5_Skor-2.xlsx)
-
-___
-
-
-### 0) Ruang Lingkup Review {.unnumbered .unlisted}
 Dokumen ini berisi **review profesional** untuk rangkaian:
 - **UAS-1 My Concepts** (AQUA-NUSA sebagai masterpiece sosio-teknis)
 - **UAS-2 My Opinions** (AI for Accountability)
@@ -36,8 +8,21 @@ Dokumen ini berisi **review profesional** untuk rangkaian:
 
 Skala penilaian rubrik: **5 (Excellent) – 1 (Poor)**.  
 
+## Identifikasi
 
-### 1) Executive Summary {.unnumbered .unlisted}
+| Nama | NIM |
+|------|-----|
+| **Lukman Hakim Syah Ardhana** | **18224097** |
+
+
+## LINK SCORE UAS PEER TO PEER
+
+[Link Excel](https://docs.google.com/spreadsheets/d/1e1VKO3qTs9bRmDoLfmCZYr2Acg0--6_l/edit?usp=sharing&ouid=113644725819428153387&rtpof=true&sd=true)  
+
+[Unduh Cadangan (XLSX)](My_Personal_Reviews/UTS-5_Skor-2.xlsx)
+
+
+### Executive Summary 
 
 | Artefak | Rubrik | Skor Total | Kesimpulan |
 |---|---|---:|---|
