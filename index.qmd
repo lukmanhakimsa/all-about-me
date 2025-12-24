@@ -21,6 +21,11 @@ Dengan navigasi yang jelas dan terstruktur, pengunjung dapat dengan mudah menjel
 - [UTS-3 My Stories for You](My_Stories_for_You/index.qmd)
 - [UTS-4 My SHAPE](My_Shapes/index.qmd)
 - [UTS-5 My Personal Reviews](My_Personal_Reviews/index.qmd)
+- [UAS-1 My Concepts](My_Concepts/index.qmd)
+- [UAS-2 My Opinions](My_Opinions/index.qmd)
+- [UAS-3 My Innovations](My_Innovations/index.qmd)
+- [UAS-4 My Knowledge](My_Concepts/index.qmd)
+- [UAS-5 My Peofessional Reviews](My_Professional_Reviews/index.qmd)
 
 ## Highlight
 
