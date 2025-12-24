@@ -1,8 +1,8 @@
 # UAS-3 My Innovations  
-## PUDAL-Loop Orchestrator: dari Sinyal → Keputusan → Aksi → Pembelajaran
+## PUDAL-Loop Orchestrator: dari Sinyal → Keputusan → Aksi → Pembelajaran {.unnumbered .unlisted}
 
 
-### 1) Masalah yang ingin dipecahkan inovasi
+### 1) Masalah yang ingin dipecahkan inovasi {.unnumbered .unlisted}
 Banyak sistem pelaporan publik berhenti di “bisa lapor”. Yang sering hilang:
 - proses triase,
 - penugasan dan SLA,
@@ -11,7 +11,7 @@ Banyak sistem pelaporan publik berhenti di “bisa lapor”. Yang sering hilang:
 
 Inovasi saya menutup celah itu.
 
-### 2) Inti inovasi: PUDAL-Loop Orchestrator
+### 2) Inti inovasi: PUDAL-Loop Orchestrator {.unnumbered .unlisted}
 Saya mendesain AQUA-NUSA memakai siklus agentik **PUDAL**:
 
 1) **Perceive**: kumpulkan bukti (sensor/laporan/inspeksi)  
@@ -20,8 +20,8 @@ Saya mendesain AQUA-NUSA memakai siklus agentik **PUDAL**:
 4) **Act**: eksekusi (ticketing, assignment, logistik, komunikasi)  
 5) **Learning/Evaluating**: ukur hasil (verifikasi + metrik + perbaikan)
 
-### 3) Modul sistem (lebih “engineering”, bukan esai)
-#### (A) Evidence Collector (Offline-First)
+### 3) Modul sistem (lebih “engineering”, bukan esai) {.unnumbered .unlisted}
+#### (A) Evidence Collector (Offline-First) {.unnumbered .unlisted}
 **Input:** laporan warga (teks+foto), inspeksi, sensor sederhana  
 **Output:** event terstruktur, contoh skema:
 ```json
@@ -36,40 +36,40 @@ Saya mendesain AQUA-NUSA memakai siklus agentik **PUDAL**:
 }
 ```
 
-#### (B) Situation Classifier (AI + Rules)
+#### (B) Situation Classifier (AI + Rules) {.unnumbered .unlisted}
 - NLP: laporan bebas → kategori (air keruh/bau/pipa bocor/toilet rusak) + confidence  
 - Anomali: time-series sensor → sinyal abnormal  
 - Risk score (0–100): dampak kesehatan, jumlah terdampak, tren spike, kedekatan fasilitas kritikal, kerentanan wilayah.
 
-#### (C) Decision & Dispatch Engine (Playbook Aksi)
+#### (C) Decision & Dispatch Engine (Playbook Aksi) {.unnumbered .unlisted}
 Contoh *playbook* (konsep):
 - Jika `risk_score > 80` & `kontaminasi` → inspeksi cepat + notifikasi publik + suplai air sementara  
 - Jika `pipa bocor` → tiket perbaikan + estimasi waktu + update status berkala  
 - Jika `sanitasi rusak` → tiket perbaikan + fasilitas sementara + edukasi higiene
 
-#### (D) Ticketing + SLA + Public Status
+#### (D) Ticketing + SLA + Public Status {.unnumbered .unlisted}
 Status standar:
 - received → triaged → assigned → in progress → verified → closed  
 Bukti penutupan:
 - foto/tes ulang + konfirmasi warga.
 
-#### (E) Learning Layer
+#### (E) Learning Layer {.unnumbered .unlisted}
 - metrik: MTTA, MTTR, repeat rate, resolution rate, citizen satisfaction, fairness gap  
 - analisis akar masalah → perbaiki rule/model + dokumentasi.
 
-### 4) Trade-off inovasi (biar terlihat matang)
+### 4) Trade-off inovasi (biar terlihat matang) {.unnumbered .unlisted}
 - **Automasi vs akuntabilitas:** keputusan berisiko tinggi tetap human approval.  
 - **Kecepatan vs fairness:** prioritas bukan hanya “yang paling ramai”, tapi juga “yang paling rentan”.  
 - **Data lengkap vs realitas lapangan:** pilih minimum viable evidence + verifikasi.
 
-### 5) Artefak yang disarankan untuk repo
+### 5) Artefak yang disarankan untuk repo {.unnumbered .unlisted}
 - Diagram PUDAL + arsitektur 4-lapis (simpan di `assets/`)  
 - Tabel playbook IF–THEN (lampir di bagian bawah dokumen)  
 - Mock UI sederhana (peta + status tiket)
 
 ---
 
-## Lampiran: Tabel Playbook (contoh awal)
+## Lampiran: Tabel Playbook (contoh awal) {.unnumbered .unlisted}
 | Kategori | Kondisi | Aksi Utama | SLA | Bukti Verifikasi |
 |---|---|---|---:|---|
 | Kontaminasi | Risk > 80 | Inspeksi + suplai sementara + notifikasi | 24 jam | Tes ulang + konfirmasi warga |
@@ -77,7 +77,3 @@ Bukti penutupan:
 | Sanitasi rusak | Risk 50–80 | Perbaikan + fasilitas sementara | 72 jam | Foto + inspeksi ulang |
 
 
-
-## Mock UI (Wireframe)
-
-![AQUA-NUSA Mock UI](../assets/aqua-nusa-mock-ui.png)
