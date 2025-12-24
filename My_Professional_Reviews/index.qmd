@@ -12,7 +12,7 @@ Dokumen ini berisi **review profesional** untuk rangkaian:
 Skala penilaian rubrik: **5 (Excellent) – 1 (Poor)**.  
 
 
-### 1) Executive Summary (Skor Tinggi & Ringkas) {.unnumbered .unlisted}
+### 1) Executive Summary {.unnumbered .unlisted}
 
 | Artefak | Rubrik | Skor Total | Kesimpulan |
 |---|---|---:|---|
