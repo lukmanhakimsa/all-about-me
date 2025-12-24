@@ -1,12 +1,12 @@
 # UAS-4 My Knowledge  
-## Body of Knowledge untuk Mewujudkan AQUA-NUSA sebagai Sistem STI di Era AI
+## Body of Knowledge untuk Mewujudkan AQUA-NUSA sebagai Sistem STI di Era AI {.unnumbered .unlisted}
 
 
-### 1) Pengetahuan Domain: Air Bersih & Sanitasi
+### 1) Pengetahuan Domain: Air Bersih & Sanitasi {.unnumbered .unlisted}
 Krisis air bersih terjadi ketika populasi tidak punya akses air minum aman atau sanitasi memadai; penyebabnya bisa kelangkaan air, infrastruktur buruk, pencemaran, dan kemiskinan. Dampaknya mencakup penyakit, penurunan produktivitas, dan menghambat pendidikan.  
 *(Sumber: Top-10 Problems, masalah #6 — Air Bersih & Sanitasi, PDF kelas)*
 
-### 2) Pengetahuan Data: Minimum Viable Evidence + Data Governance
+### 2) Pengetahuan Data: Minimum Viable Evidence + Data Governance {.unnumbered .unlisted}
 Karena lapangan tidak ideal, saya menggunakan prinsip:
 - data sederhana tapi konsisten,
 - provenance + timestamp + lokasi,
@@ -20,7 +20,7 @@ Karena lapangan tidak ideal, saya menggunakan prinsip:
 - `Verification` (bukti penyelesaian),
 - `Feedback` (kepuasan/konfirmasi warga).
 
-### 3) Pengetahuan AI: Metode Tepat Guna (Service-Oriented AI)
+### 3) Pengetahuan AI: Metode Tepat Guna (Service-Oriented AI) {.unnumbered .unlisted}
 AQUA-NUSA memakai AI untuk:
 - klasifikasi laporan warga (NLP),
 - deteksi anomali kualitas air (time-series),
@@ -31,7 +31,7 @@ AQUA-NUSA memakai AI untuk:
 - jika confidence rendah → minta verifikasi, bukan memaksa keputusan otomatis,
 - audit trail untuk perubahan model/rule (governance).
 
-### 4) Pengetahuan Rekayasa Sistem: Operasi, Observability, dan Ketahanan
+### 4) Pengetahuan Rekayasa Sistem: Operasi, Observability, dan Ketahanan {.unnumbered .unlisted}
 Sistem layanan publik wajib punya:
 - ticketing + SLA,
 - status transparan,
@@ -42,18 +42,18 @@ Sistem layanan publik wajib punya:
 
 Tanpa ini, AI hanya jadi demo.
 
-### 5) Etika, Keamanan, dan Fairness
+### 5) Etika, Keamanan, dan Fairness {.unnumbered .unlisted}
 - **Privasi:** lokasi/identitas pelapor dilindungi; data kesehatan agregat.  
 - **Keamanan:** rate limiting, verifikasi, deteksi laporan palsu, dan kontrol akses.  
 - **Fairness:** wilayah minim data dipetakan sebagai risiko; SLA tidak boleh “bias keramaian”.
 
-### 6) Evaluasi Dampak: Ukur yang benar
+### 6) Evaluasi Dampak: Ukur yang benar {.unnumbered .unlisted}
 Pisahkan metrik:
 - **Model metrics:** akurasi klasifikasi, false alarm, calibration  
 - **Service metrics:** MTTA/MTTR, resolution rate, repeat rate, SLA compliance  
 - **Equity metrics:** gap waktu tanggap wilayah rentan vs non-rentan  
 - **Outcome proxy:** tren keluhan & indikator kesehatan agregat (bila tersedia)
 
-### 7) Penutup
+### 7) Penutup {.unnumbered .unlisted}
 Body of knowledge ini membuat AQUA-NUSA bukan sekadar ide, tetapi sistem yang bisa dirancang, diuji, dioperasikan, dan diperbaiki secara berkelanjutan.
 
