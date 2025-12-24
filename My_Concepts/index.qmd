@@ -1,12 +1,12 @@
 # UAS-1 My Concepts  
-## AQUA-NUSA: Mahakarya Sosio-Teknis Berbasis AI untuk Koordinasi Air Bersih & Sanitasi
+AQUA-NUSA: Mahakarya Sosio-Teknis Berbasis AI untuk Koordinasi Air Bersih & Sanitasi
 
 
-### 1) Latar Masalah dan Alasan Pemilihan
+1) Latar Masalah dan Alasan Pemilihan
 Krisis air bersih dan sanitasi adalah salah satu masalah kemanusiaan yang tampak “sehari-hari”, tapi dampaknya fundamental: kesehatan, produktivitas, pendidikan, hingga kemiskinan. Dalam daftar Top-10 Masalah Kemanusiaan, krisis ini menegaskan skala yang sangat besar (miliaran manusia terdampak), sehingga problemnya bukan hanya “ada teknologi atau tidak”, tapi **bagaimana manusia bisa mengoordinasikan solusi dalam skala populasi**.  
 *(Sumber: Top-10 Problems, masalah #6 — Air Bersih & Sanitasi, PDF kelas)*
 
-### 2) Definisi “Masterpiece” di Era AI
+2) Definisi “Masterpiece” di Era AI
 Bagi saya, “masterpiece” bukan aplikasi tunggal atau model AI paling akurat, melainkan **sistem sosio-teknis**: gabungan manusia–proses–data–teknologi yang:
 1. **Membaca realitas** (mengubah kejadian lapangan jadi bukti yang bisa diproses),
 2. **Menyusun makna** (menerjemahkan bukti menjadi situasi, prioritas, dan risiko),
@@ -15,7 +15,7 @@ Bagi saya, “masterpiece” bukan aplikasi tunggal atau model AI paling akurat,
 
 Saya menamai masterpiece ini **AQUA-NUSA**: platform koordinasi air bersih & sanitasi berbasis AI yang menekankan **AI for Accountability**.
 
-### 3) Premis Konseptual: Krisis Air = Krisis Koordinasi
+3) Premis Konseptual: Krisis Air = Krisis Koordinasi
 Banyak sistem layanan air gagal bukan karena “tidak ada aplikasi”, tetapi karena:
 - sinyal gangguan telat (tidak ada sensing atau pelaporan terstruktur),
 - prioritas tidak jelas (siapa duluan? berdasarkan apa?),
@@ -25,11 +25,11 @@ Banyak sistem layanan air gagal bukan karena “tidak ada aplikasi”, tetapi ka
 Dokumen Top-10 juga menekankan bahwa masalah global saling terkait (*interconnectedness*) dan butuh pendekatan komprehensif. Maka, AQUA-NUSA dirancang sebagai **mesin koordinasi**, bukan “alat analitik” saja.  
 *(Sumber: Top-10 Problems — catatan interkonektivitas, PDF kelas)*
 
-### 4) Arsitektur Konseptual AQUA-NUSA (4 Lapis)
-#### (A) Reality Layer — Dunia Nyata
+4) Arsitektur Konseptual AQUA-NUSA (4 Lapis)
+(A) Reality Layer — Dunia Nyata
 Objeknya: sumber air, pipa, sumur, depot, toilet komunal, perilaku higienitas, serta kejadian (banjir/kekeringan) dan insiden (kontaminasi, kebocoran, antrean).
 
-#### (B) Evidence Layer — Bukti
+(B) Evidence Layer — Bukti
 Saya memakai prinsip **minimum viable evidence**: bukti boleh sederhana, tapi harus *traceable*:
 - sensor sederhana (mis. turbidity/pH) bila tersedia,
 - inspeksi petugas,
@@ -38,7 +38,7 @@ Saya memakai prinsip **minimum viable evidence**: bukti boleh sederhana, tapi ha
 
 Kunci lapisan ini: provenance, timestamp, lokasi, dan verifikasi.
 
-#### (C) Intelligence Layer — AI + Aturan
+(C) Intelligence Layer — AI + Aturan
 AI berfungsi sebagai “mesin penyusun situasi”:
 - deteksi anomali kualitas air,
 - klasifikasi keluhan warga,
@@ -47,7 +47,7 @@ AI berfungsi sebagai “mesin penyusun situasi”:
 
 Namun, **rule engine** tetap penting agar keputusan bisa dijelaskan, diaudit, dan sesuai kebijakan layanan.
 
-#### (D) Coordination Layer — Orkestrasi Aksi
+(D) Coordination Layer — Orkestrasi Aksi
 Bagian ini yang membuat sistem “hidup”:
 - ticketing + SLA,
 - penugasan tim,
@@ -56,16 +56,16 @@ Bagian ini yang membuat sistem “hidup”:
 - komunikasi status ke warga,
 - audit tindak lanjut.
 
-### 5) Tiga Kompas Nilai
+5) Tiga Kompas Nilai
 1) **Justice-by-Design:** wilayah minim data tidak boleh tertinggal (offline-first + verifikasi komunitas).  
 2) **Trust & Accountability:** jejak alasan untuk setiap keputusan.  
 3) **Sustainability:** fokus pada pencegahan + perawatan, bukan respons reaktif semata.
 
-### 6) Stakeholder dan Batas Sistem
+6) Stakeholder dan Batas Sistem
 Stakeholder: warga, operator air/pengelola fasilitas, pemerintah daerah/regulator, tenaga kesehatan (indikator dampak), vendor/logistik.  
 Batas sistem: AQUA-NUSA tidak membangun pipa secara fisik, tetapi membuat layanan lebih andal lewat koordinasi berbasis bukti.
 
-### 7) Kriteria Keberhasilan (Outcome)
+7) Kriteria Keberhasilan (Outcome)
 - MTTA/MTTR turun,
 - gangguan berulang turun,
 - penyelesaian tiket naik,
@@ -73,9 +73,3 @@ Batas sistem: AQUA-NUSA tidak membangun pipa secara fisik, tetapi membuat layana
 - fairness meningkat (wilayah rentan tidak tertinggal).
 
 **Kesimpulan:** Masterpiece ini adalah “operating system” koordinasi air & sanitasi yang mengubah data menjadi aksi, dan aksi menjadi pembelajaran.
-
-
-
-## Diagram Arsitektur
-
-![AQUA-NUSA Architecture](../assets/aqua-nusa-architecture.png)
