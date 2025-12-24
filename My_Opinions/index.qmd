@@ -2,21 +2,21 @@
 ## “AI Bukan Penyihir Air Bersih. AI adalah Penguat Akuntabilitas.”
 
 
-### 1) Apa itu Opini (yang berpengaruh) menurut saya
+### 1) Apa itu Opini (yang berpengaruh) menurut saya {.unnumbered .unlisted}
 Opini yang berpengaruh adalah posisi yang **berani dipilih** dan **siap dipertanggungjawabkan**. Dalam konteks krisis air bersih & sanitasi, saya mengambil posisi:
 
 > **Masalah utamanya bukan kekurangan teknologi, melainkan kekurangan sistem koordinasi dan akuntabilitas.**
 
-Krisis ini berskala sangat besar (miliaran manusia terdampak), sehingga solusi tidak cukup berupa “pilot project” tanpa memori dan tanpa mekanisme tindak lanjut.
+Krisis ini berskala sangat besar (miliaran manusia terdampak), sehingga solusi tidak cukup berupa “pilot project” tanpa memori dan tanpa mekanisme tindak lanjut.  
 *(Sumber: Top-10 Problems, masalah #6 — Air Bersih & Sanitasi, PDF kelas)*
 
-### 2) Tesis: “AI for Accountability”
+### 2) Tesis: “AI for Accountability” {.unnumbered .unlisted}
 Di era AI, godaannya adalah membangun model prediksi yang mengesankan. Tapi saya percaya, untuk layanan publik, AI seharusnya dipakai sebagai:
 
 **AI for Accountability**  
 AI yang mempercepat triase, meningkatkan transparansi proses, dan memastikan setiap sinyal punya jalur menuju aksi dan verifikasi.
 
-### 3) Argumen Mengapa Ini Penting
+### 3) Argumen Mengapa Ini Penting {.unnumbered .unlisted}
 **(A) Akurasi ≠ dampak**  
 Model 0,99 akurat tidak otomatis mengurangi gangguan air bila tidak ada orkestrasi kerja (tiket, SLA, logistik, audit).
 
@@ -27,10 +27,10 @@ Warga butuh melihat status: laporan diterima? siapa menangani? kapan selesai? Tr
 Air bersih terkait langsung dengan kesehatan, kemiskinan, pendidikan, dan iklim. Pendekatan parsial akan selalu bocor.  
 *(Sumber: Top-10 Problems — catatan interkonektivitas, PDF kelas)*
 
-**(D) AI bisa membantu fairness (kalau didesain dengan niat)**
+**(D) AI bisa membantu fairness (kalau didesain dengan niat)**  
 Jika sistem offline-first dan ada mekanisme verifikasi komunitas, wilayah minim data tidak diabaikan—justru dipetakan sebagai risiko.
 
-### 4) Kontra-Argumen (dan respons saya)
+### 4) Kontra-Argumen (dan respons saya) {.unnumbered .unlisted}
 **Kontra 1:** “AI bias, datanya jelek, bisa salah keputusan.”  
 **Respons:** setuju. Karena itu AI tidak boleh *stand-alone*. Harus ada:
 - rule engine yang bisa diaudit,
@@ -40,7 +40,7 @@ Jika sistem offline-first dan ada mekanisme verifikasi komunitas, wilayah minim 
 **Kontra 2:** “Yang penting bangun infrastruktur.”  
 **Respons:** benar, tapi infrastruktur tanpa sistem operasi layanan akan cepat turun kualitasnya. Saya melihat AQUA-NUSA sebagai *operating system* yang membuat investasi fisik bertahan.
 
-### 5) Konsekuensi dari posisi saya
+### 5) Konsekuensi dari posisi saya {.unnumbered .unlisted}
 Kalau saya konsisten, saya menilai keberhasilan dengan:
 - waktu respons turun,
 - gangguan berulang turun,
@@ -48,4 +48,3 @@ Kalau saya konsisten, saya menilai keberhasilan dengan:
 - fairness meningkat.
 
 **Penutup:** AI yang paling berguna bukan yang paling pintar—melainkan yang paling bisa membuat sistem layanan bergerak dan bisa diaudit.
-
